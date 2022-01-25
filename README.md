@@ -1,6 +1,6 @@
 ### Hi there, I'm Tiago 👋
 
-I'm a software developer, and currently my highest skill is backend development in **.NET C#**, but I also excel at frontend scripting either with **vanilla JS**, **React** or **Vue**. 🔋
+I'm a software developer, and currently my highest skill is backend development in **.NET C#** and **SQL**, but I also excel at frontend scripting either with **vanilla JS**, **React** or **Vue**. 🔋
 
 I enjoy solving difficult problems, and have a constant desire and ability, to quickly learn new technologies and frameworks. That's why recently I've been playing around with **Blockchain** development in **Phyton** and started learning **Solidity** and **web3.js**. As a crypto enthusiast I'm really focused in follow a career in that area, because I like the chance it gives you to change the World, we are just at the beggining of the new Internet era. 🌍
 
